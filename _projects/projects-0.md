@@ -4,7 +4,8 @@ excerpt: "Drug safety assessments in cardiac electrophisiology <br/><img src='{{
 collection: projects
 ---
 
-
+<br/><img src='{{ site.baseurl }}/images/APmodels.jpg
+<br/>
 Mathematical models of rabbit heart cells, called Purkinje fibers, can help predict how drugs affect the heart’s electrical activity. However, these models don’t always match experimental observations. This can happen if the model itself is oversimplified or if the parameters used in the model are not optimal — or sometimes both.
 In this project, I am developing a statistical framework to fine-tune these models so they better match experimental data. This includes measurements of electrical activity in rabbit Purkinje fibers as well as how different drugs affect specific ion channels in the cells. The framework uses a method that adjusts the model parameters to minimize differences between predictions and actual experiments.
 This work is done in collaboration with Sanofi (Frankfurt, Germany) and Prof. Gary Mirams at the University of Nottingham (UK). The results will help improve drug safety assessments and regulatory decisions, and also advance the use of mathematical and statistical methods for studying complex biological systems.
