@@ -1,12 +1,64 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome to my homepage. My institutional webpage can be found <a href="https://www.strath.ac.uk/staff/del_corelucadr/" target="_blank" rel="noopener noreferrer">here</a>. <!-- [here](https://www.strath.ac.uk/staff/del_corelucadr/). -->
+
+Personal statement
+------
+<!--
+I have a background in Mathematics (M.Sc. and B.Sc.), and I have obtained my PhD in Statistics 
+at the Bernoulli Institute of the University of Groningen (NL). 
+The aim of my PhD was to develop a stochastic framework to describe blood’s cell 
+formation after gene therapy treatments. From September 2022 - January 2025 
+I was a postdoctoral researcher at the School of Mathematical Sciences of the 
+University of Nottingham (UK), working on mathematical models describing the cardiac 
+electrical activity regulated by ion channels. Since February 2025 I am a Lecturer 
+in Statistics at the Department of Mathematics and Statistics of the University of Strathclyde. 
+My research area is at the interface between mathematical modelling, computational statistics and systems biology. 
+My aim is to develop mathematical models to shed light on various biological processes that are still unclear. 
+To this end, I develop statistical tools to calibrate the parameters of such mathematical models to 
+fit experimental data, whilst accounting for experimental confounders, with the goal of improving model predictions. 
+This process requires understanding which model parameters mainly affect the model output (sensitivity), 
+which parameters can be tuned whilst ensuring model identifiability (uncertainty quantification), 
+and finally their calibration via optimization algorithms.
+-->
+
+
+I am a mathematician and statistician with a passion for using quantitative methods to unravel complex biological processes. 
+I earned my B.Sc. and M.Sc. in Mathematics, followed by a Ph.D. in Statistics from the Bernoulli Institute at 
+the University of Groningen (Netherlands). My doctoral research focused on developing a stochastic framework 
+to model blood cell formation after gene therapy treatments, providing a rigorous mathematical lens to 
+understand the dynamics of cellular regeneration.
+
+Following my Ph.D., I held a postdoctoral position at the School of Mathematical Sciences, University of Nottingham (UK), 
+where I developed mathematical models to describe cardiac electrical activity regulated by ion channels. 
+These experiences solidified my expertise at the intersection of mathematical modeling, computational statistics, 
+and systems biology. Since February 2025, I have been a Lecturer in Statistics at the University of Strathclyde, 
+where I continue to pursue research that bridges mathematics and biology.
+
+My research aims to illuminate biological processes that are not yet fully understood by combining mathematical 
+modeling with advanced statistical techniques. I design computational tools to calibrate model parameters to 
+experimental data while rigorously accounting for confounding factors. This approach allows me to identify 
+which parameters drive model behavior, quantify uncertainties, and optimize predictions with high reliability. 
+By integrating sensitivity analysis, uncertainty quantification, and parameter calibration, my work not only 
+enhances the predictive power of models but also provides mechanistic insights that can guide experimental and clinical research.
+
+Ultimately, I strive to develop models that do more than replicate biological phenomena—they serve as tools 
+to generate testable hypotheses, uncover underlying mechanisms, and inform experimental design. 
+My long-term goal is to contribute to a more quantitative and predictive understanding of complex biological systems, 
+using mathematics and statistics as a bridge between theory and experiment.
+
+
+
+
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +106,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
