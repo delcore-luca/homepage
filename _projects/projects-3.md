@@ -1,6 +1,6 @@
 ---
 title: "Inference of single-cell gene regulatory networks"
-excerpt: "Mechanisms of gene regulation at the single-cell level <br/><img src='/images/SCGNRs.jpg' width='500'>"
+excerpt: "Mechanisms of gene regulation at the single-cell level <br/><img src='../images/SCGNRs.jpg' width='500'>"
 collection: projects
 ---
 

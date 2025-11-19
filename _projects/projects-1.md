@@ -1,6 +1,6 @@
 ---
 title: "Mixed-effects models of clonal haematopoiesis"
-excerpt: "Statistical inference of growth dynamics of mutated genes <br/><img src='/images/CH4.jpg' width='500'>"
+excerpt: "Statistical inference of growth dynamics of mutated genes <br/><img src='../images/CH4.jpg' width='500'>"
 collection: projects
 ---
 

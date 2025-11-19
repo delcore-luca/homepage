@@ -1,6 +1,6 @@
 ---
 title: "Mathematical models of antimicrobial resistance"
-excerpt: "Bacteria growth dynamics and antibiotic resistance <br/><img src='/images/AMR.jpg' width='500'>"
+excerpt: "Bacteria growth dynamics and antibiotic resistance <br/><img src='../images/AMR.jpg' width='500'>"
 collection: projects
 ---
 
