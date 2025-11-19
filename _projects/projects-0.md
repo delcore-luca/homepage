@@ -1,6 +1,6 @@
 ---
 title: "Data-driven mathematical models of the cardiac action potential"
-excerpt: "Drug safety assessments in cardiac electrophisiology <br/><img src='/images/APmodels.jpg' width='500'>"
+excerpt: "Drug safety assessments in cardiac electrophisiology <br/><img src='{{ site.baseurl }}/images/APmodels.jpg' width='500'>"
 collection: projects
 ---
 
