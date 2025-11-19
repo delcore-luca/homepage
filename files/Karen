@@ -1,7 +1,0 @@
-@Manual{Karen,
-title = {Karen: Kalman Reaction Networks},
-author = {Luca {Del Core} and Danilo Pellin and Marco Grzegorczyk and Ernst Wit},
-year = {2022},
-note = {R package version 1.0},
-url = {https://CRAN.R-project.org/package=Karen},
-}

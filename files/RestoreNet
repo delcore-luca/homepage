@@ -1,7 +1,0 @@
-@Manual{RestoreNet,
-title = {RestoreNet: Random-Effects Stochastic Reaction Networks},
-author = {Luca {Del Core} and Marco Grzegorczyk and Ernst Wit},
-year = {2024},
-note = {R package version 1.0.1},
-url = {https://CRAN.R-project.org/package=RestoreNet},
-}
