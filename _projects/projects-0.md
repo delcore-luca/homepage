@@ -11,12 +11,12 @@ This work is done in collaboration with Sanofi (Frankfurt, Germany) and Prof. Ga
 
 
 
-<!-- 
+<!-- <img src='{{ site.baseurl }}/images/APmodels.jpg' width='500'>
 
 Mathematical action potential (AP) models of rabbit Purkinje fibers, combined with ion channel screening data, can be used to predict drug-induced changes in AP. However, these models sometimes fail to reproduce experimental observations. Such discrepancies may arise from model misspecification, suboptimal parameter choices, or a combination of both.
 The aim of this work is to develop a statistical framework to calibrate the parameters of various mathematical AP models, enabling them to fit experimental control AP traces collected from rabbit Purkinje fibers, alongside orthogonal ion channel inhibition data obtained under a set of reference drug compounds. The proposed framework employs a maximum likelihood approach that minimizes the distance between model predictions and experimental data.
 This project is conducted in collaboration with Sanofi (Frankfurt, Germany) and Prof. Gary Mirams at the University of Nottingham (UK). The outcomes of this work have implications not only for drug safety and regulatory decision-making but also for advancing inverse modeling and computational statistics in high-dimensional dynamical systems.
-
+<img src='{{ site.baseurl }}/images/APmodels.jpg' width='500'>
 -->
 
 
