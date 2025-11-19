@@ -11,8 +11,6 @@ citation: 'Del Core, L., Pellin, D., Wit, E.C. et al. A mixed-effects stochastic
 ---
 
 <!--
-
 bibtexurl: '/files/DelCore2023.bib'
-
 excerpt: 'Mathematical models of haematopoiesis can provide insights on abnormal cell expansions (clonal dominance), and in turn can guide safety monitoring in gene therapy clinical applications.'
 -->

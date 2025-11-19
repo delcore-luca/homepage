@@ -11,8 +11,6 @@ citation: 'Del Core, L., Cesana, D., Gallina, P. et al. Normalization of clonal 
 ---
 
 <!-- 
-
 excerpt: 'Viral vectors are used to insert genetic material into semirandom genomic positions of hematopoietic stem cells which, after reinfusion into patients, regenerate the entire hematopoietic system.'
-
 bibtexurl: '/files/DelCore2022.bib
 -->
