@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Groningen, Netherlands"
 ---
 
-Teaching Assistant (TA) for the course Contemporary Statistics with Applications for academic years 2019, 2020 and 2021.
+Teaching Assistant (TA) for the course Contemporary Statistics with Applications for academic years 2019-20 and  2020-21.
 
 Description
 ======
