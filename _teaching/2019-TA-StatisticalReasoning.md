@@ -2,7 +2,7 @@
 title: "Statistical Reasoning (teaching assistant)"
 collection: teaching
 type: "BSc course"
-permalink: /teaching/2019-TA-Groningen
+permalink: /teaching/2019-TA-StatisticalReasoning
 venue: "University of Groningen, Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence (Groningen, Netherlands)"
 date: 2019-09-01
 location: "Groningen, Netherlands"
